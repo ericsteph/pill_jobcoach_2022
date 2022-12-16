@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='720.00pt' height='495.00pt' viewBox='0 0 720.00 495.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHw0OTUuMDA='>
+    <rect x='0.00' y='0.00' width='720.00' height='495.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw0OTUuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMzcuMTF8NzE0LjUyfDM4Ljg1fDQ0MS45Nw=='>
+    <rect x='37.11' y='38.85' width='677.42' height='403.12' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzcuMTF8NzE0LjUyfDM4Ljg1fDQ0MS45Nw==)'>
+<polyline points='37.11,423.65 714.52,423.65 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='37.11,332.03 714.52,332.03 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='37.11,240.41 714.52,240.41 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='37.11,148.79 714.52,148.79 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='37.11,57.18 714.52,57.18 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='174.48,441.97 174.48,38.85 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='363.97,441.97 363.97,38.85 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='553.46,441.97 553.46,38.85 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='37.11,377.84 714.52,377.84 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='37.11,286.22 714.52,286.22 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='37.11,194.60 714.52,194.60 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='37.11,102.98 714.52,102.98 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='79.74,441.97 79.74,38.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='269.23,441.97 269.23,38.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='458.71,441.97 458.71,38.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='648.20,441.97 648.20,38.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<line x1='37.11' y1='271.33' x2='714.52' y2='271.33' style='stroke-width: 1.28; stroke: #FF0000; stroke-dasharray: 1.71,5.12; stroke-linecap: butt;' />
+<polyline points='103.43,332.03 115.27,350.35 127.11,396.16 138.95,405.32 150.80,387.00 162.64,396.16 174.48,368.68 186.33,387.00 198.17,387.00 210.01,359.52 221.85,341.19 233.70,322.87 245.54,332.03 257.38,332.03 269.23,322.87 281.07,304.54 292.91,295.38 304.76,332.03 316.60,341.19 328.44,322.87 340.28,295.38 352.13,258.74 363.97,240.41 375.81,249.57 387.66,258.74 399.50,258.74 411.34,249.57 423.18,249.57 435.03,240.41 446.87,231.25 458.71,203.76 470.56,240.41 482.40,222.09 494.24,222.09 506.09,258.74 517.93,249.57 529.77,295.38 541.61,341.19 553.46,350.35 565.30,304.54 577.14,240.41 588.99,139.63 600.83,102.98 612.67,121.31 624.51,167.12 636.36,258.74 648.20,295.38 660.04,322.87 ' style='stroke-width: 2.56; stroke: #F2CC26; stroke-linecap: butt;' />
+<polyline points='103.43,313.71 115.27,359.52 127.11,377.84 138.95,396.16 150.80,387.00 162.64,377.84 174.48,387.00 186.33,359.52 198.17,332.03 210.01,286.22 221.85,249.57 233.70,240.41 245.54,249.57 257.38,231.25 269.23,203.76 281.07,203.76 292.91,212.93 304.76,231.25 316.60,240.41 328.44,240.41 340.28,194.60 352.13,157.96 363.97,148.79 375.81,139.63 387.66,148.79 399.50,157.96 411.34,176.28 423.18,194.60 435.03,203.76 446.87,222.09 458.71,212.93 470.56,240.41 482.40,249.57 494.24,277.06 506.09,286.22 517.93,277.06 529.77,304.54 541.61,313.71 553.46,267.90 565.30,231.25 577.14,176.28 588.99,121.31 600.83,112.15 612.67,102.98 624.51,112.15 636.36,167.12 648.20,231.25 660.04,295.38 ' style='stroke-width: 2.56; stroke: #5C8FCC; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw0OTUuMDA=)'>
+<text x='32.17' y='380.79' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='13.76px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='32.17' y='289.18' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='13.15px' lengthAdjust='spacingAndGlyphs'>110</text>
+<text x='32.17' y='197.56' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='13.76px' lengthAdjust='spacingAndGlyphs'>120</text>
+<text x='32.17' y='105.94' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='13.76px' lengthAdjust='spacingAndGlyphs'>130</text>
+<text x='79.74' y='452.81' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='22.91px' lengthAdjust='spacingAndGlyphs'>II trim.</text>
+<text x='79.74' y='461.72' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2010</text>
+<text x='269.23' y='452.81' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='22.91px' lengthAdjust='spacingAndGlyphs'>II trim.</text>
+<text x='269.23' y='461.72' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2014</text>
+<text x='458.71' y='452.81' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='22.91px' lengthAdjust='spacingAndGlyphs'>II trim.</text>
+<text x='458.71' y='461.72' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2018</text>
+<text x='648.20' y='452.81' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='22.91px' lengthAdjust='spacingAndGlyphs'>II trim.</text>
+<text x='648.20' y='461.72' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2022</text>
+<text x='37.11' y='31.05' style='font-size: 11.00px; fill: #BEBEBE; font-family: Arial;' textLength='377.37px' lengthAdjust='spacingAndGlyphs'>III trim. 2022: 212'200; crescita annua: -43'000; crescita in percentuale: -0,2%</text>
+<text x='37.11' y='14.93' style='font-size: 13.20px; font-weight: bold; font-family: Arial;' textLength='607.41px' lengthAdjust='spacingAndGlyphs'>Disoccupati ai sensi dell'ILO, secondo il sesso (media ultimi 4 trim., in '000), in Svizzera, dal 2010</text>
+<text x='714.52' y='487.79' text-anchor='end' style='font-size: 8.25px; fill: #BEBEBE; font-family: Arial;' textLength='279.21px' lengthAdjust='spacingAndGlyphs'>Fonte: Rilevazione sulle forze di lavoro in Svizzera (RIFOS), UST, Neuchatel</text>
+</g>
+</svg>
